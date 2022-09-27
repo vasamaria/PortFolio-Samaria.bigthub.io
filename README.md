@@ -1,2 +1,2 @@
-# PortFolio-Samaria.bigthub.io
+# PortFolio-Samaria.github.io
 Meu PortFolio Pessoal
